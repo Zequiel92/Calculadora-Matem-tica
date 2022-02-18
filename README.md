@@ -1,2 +1,2 @@
 # Calculadora-Matem-tica
-Como mi primer proyecto para aprender python, construí una calculadora utilizando la biblioteca gráfica Tkinter  
+Como mi primer proyecto para aprender python, construí dos prototipos de calculadora, la primera utilize la biblioteca gráfica Tkinter y la segunda lo hize solamente con puro codigo sin interfaz gráfica.
